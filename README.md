@@ -1,4 +1,4 @@
-# Covalent-Matrix
+# Covariance-Matrix
 Asset covariance and portfolio volatility
 
 #This is for practice
